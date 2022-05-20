@@ -1,0 +1,1 @@
+enum SlideAction { delete, UndoDelete }
